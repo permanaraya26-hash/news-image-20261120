@@ -97,7 +97,7 @@ STORIES = [
     ("CLIMATE & SCIENCE", "COP31: India pushes a country-based just transition"),
     ("CLIMATE & SCIENCE", "Peru quake M6.7 shakes Junin, felt in Lima; no deaths"),
     ("CLIMATE & SCIENCE", "Myanmar rejects Rohingya genocide ruling as 'unfair'"),
-    ("CLIMATE & SCIENCE", "UN Assembly chief visits Cox's Bazar camps a day after ICJ verdict"),
+    ("CLIMATE & SCIENCE", "UNGA chief visits Cox's Bazar camps after ICJ verdict"),
     ("CLIMATE & SCIENCE", "Turkey urges bloc to shield auto market access under 'Made in EU'"),
 ]
 
